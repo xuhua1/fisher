@@ -1,7 +1,7 @@
 ## pipenv 虚拟环境和项目是绑定的
 
 ## My SQL
-ip: 47.107.77.11
+
 port: 3306
 USE: root
 PWD: CEA72b871a1e
