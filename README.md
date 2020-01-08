@@ -14,8 +14,14 @@ PWD: CEA72b871a1e
 3. pipenv install 
 ## 进入虚拟环境
 4. pipenv shell
+
+
 ## 安装flask
 5. pipenv install flask
+## 安装wtforms
+   pipenv install wtforms
+## 安装flask-sqlalchemy
+   pipenv install flask-sqlalchemy
 
 ## 安装包列表
 * pip list
@@ -31,3 +37,5 @@ PWD: CEA72b871a1e
 jieba
 ## python 存储
 redis
+
+
